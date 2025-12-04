@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Yashwanth 👋</h1>
+<h1 align="center">Hey, I'm Saga Yashwanth 👋</h1>
 
 <p align="center">
   Full-stack Web Developer | MERN Stack | SDE 
@@ -53,9 +53,9 @@
 
 ## 💬 Let's Connect
 
-- **LinkedIn:** [Your LinkedIn Profile]
+- **LinkedIn:** https://www.linkedin.com/in/yashwanthsaga/
 - **Portfolio:** https://SagaYashwanth2531.github.io
-- **Email:** your.email@example.com
+- **Email:** pyashwanth97@gmail.com
 
 ---
 
@@ -72,4 +72,4 @@
 
 ---
 
-⭐️ _Currently building production-quality MERN applications and solving DSA problems daily._
+⭐️ _Currently building production-quality FullStack applications and solving DSA problems daily._
