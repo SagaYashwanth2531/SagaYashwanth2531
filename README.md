@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Yashwanth 👋</h1>
 
 <p align="center">
-  Full-stack Web Developer | MERN Stack | SDE Placement Prep
+  Full-stack Web Developer | MERN Stack | SDE 
 </p>
 
 ---
